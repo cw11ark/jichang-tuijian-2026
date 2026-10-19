@@ -1,10 +1,10 @@
-# 机场推荐（2026-10-18 更新）
+# 机场推荐（2026-10-19 更新）
 
-> **[秒连云](https://github.com/REPLACE_OWNER/miaolianyun-jichang)** — 稳，全节点连通 · **[官网注册](https://mly518.com/#/register?code=IDN5bnoG)**
+> **[秒连云](https://github.com/cw11ark/miaolianyun-jichang)** — 稳，全节点连通 · **[官网注册](https://mly518.com/#/register?code=IDN5bnoG)**
 >
-> **[赛博云](https://github.com/REPLACE_OWNER/saiboyun-jichang)** — 便宜，量大 · **[官网注册](https://saiboyun.org/#/register?code=dAvrmHqg)**
+> **[赛博云](https://github.com/cw11ark/saiboyun-jichang)** — 便宜，量大 · **[官网注册](https://saiboyun.org/#/register?code=dAvrmHqg)**
 >
-> **[赔钱机场](https://github.com/REPLACE_OWNER/peiqian-jichang)** — 0.1 倍节点，流量翻十倍 · **[官网注册](https://xn--mes358aby2apfg.com/register?code=qhyiSP1G&cover=sfw)**
+> **[赔钱机场](https://github.com/cw11ark/peiqian-jichang)** — 0.1 倍节点，流量翻十倍 · **[官网注册](https://xn--mes358aby2apfg.com/register?code=qhyiSP1G&cover=sfw)**
 >
 
 | | |
@@ -18,9 +18,9 @@
 
 | 机场 | 起步价 | 对应套餐 | 每元流量 | 本次测速 | 延迟中位 | 速度中位 | 实测最快 |
 |---|---|---|---|---|---|---|---|
-| **[秒连云](https://github.com/REPLACE_OWNER/miaolianyun-jichang)** | 8 元/月 120G | Air 120G | 19 GB/元 | 27/27 | 133ms | 6.7 MB/s | **8.8 MB/s** |
-| **[赛博云](https://github.com/REPLACE_OWNER/saiboyun-jichang)** | 3 元/月 120G | 轻量套餐 | 74 GB/元 | 59 节点连通 | 134ms | 6.3 MB/s | **9.3 MB/s** |
-| **[赔钱机场](https://github.com/REPLACE_OWNER/peiqian-jichang)** | 1.5 元/月 100G | 一瓶盖可乐 | 500 GB/元 | 26 节点连通 | 154ms | 6.5 MB/s | **9.2 MB/s** |
+| **[秒连云](https://github.com/cw11ark/miaolianyun-jichang)** | 8 元/月 120G | Air 120G | 19 GB/元 | 27/27 | 133ms | 6.7 MB/s | **8.8 MB/s** |
+| **[赛博云](https://github.com/cw11ark/saiboyun-jichang)** | 3 元/月 120G | 轻量套餐 | 74 GB/元 | 59 节点连通 | 134ms | 6.3 MB/s | **9.3 MB/s** |
+| **[赔钱机场](https://github.com/cw11ark/peiqian-jichang)** | 1.5 元/月 100G | 一瓶盖可乐 | 500 GB/元 | 26 节点连通 | 154ms | 6.5 MB/s | **9.2 MB/s** |
 
 ## 三家详细测评
 
@@ -76,7 +76,7 @@
 
 *逐节点原始数据见 `data/`。*
 
-**[官网注册](https://mly518.com/#/register?code=IDN5bnoG)** · **[完整测评](https://github.com/REPLACE_OWNER/miaolianyun-jichang)**
+**[官网注册](https://mly518.com/#/register?code=IDN5bnoG)** · **[完整测评](https://github.com/cw11ark/miaolianyun-jichang)**
 
 ### 赛博云（3 元/月 120G）
 
@@ -137,7 +137,7 @@
 
 *逐节点原始数据见 `data/`。*
 
-**[官网注册](https://saiboyun.org/#/register?code=dAvrmHqg)** · **[完整测评](https://github.com/REPLACE_OWNER/saiboyun-jichang)**
+**[官网注册](https://saiboyun.org/#/register?code=dAvrmHqg)** · **[完整测评](https://github.com/cw11ark/saiboyun-jichang)**
 
 ### 赔钱机场（1.5 元/月 100G）
 
@@ -193,7 +193,7 @@
 
 *逐节点原始数据见 `data/`。*
 
-**[官网注册](https://xn--mes358aby2apfg.com/register?code=qhyiSP1G&cover=sfw)** · **[完整测评](https://github.com/REPLACE_OWNER/peiqian-jichang)**
+**[官网注册](https://xn--mes358aby2apfg.com/register?code=qhyiSP1G&cover=sfw)** · **[完整测评](https://github.com/cw11ark/peiqian-jichang)**
 
 ## 买之前要知道
 
@@ -214,6 +214,7 @@
 
 ## 更新
 
+- **2026-10-19** — 三家套餐价格复核（官网接口），节点数据例行检查，无变化。
 - **2026-10-18** — 三家套餐价格复核（官网接口），节点数据例行检查，无变化。
 
 ---
@@ -221,7 +222,7 @@
 <details>
 <summary>更多机场测评</summary>
 
-- [秒连云 测评](https://github.com/REPLACE_OWNER/miaolianyun-jichang)
-- [赛博云 测评](https://github.com/REPLACE_OWNER/saiboyun-jichang)
-- [赔钱机场 测评](https://github.com/REPLACE_OWNER/peiqian-jichang)
+- [秒连云 测评](https://github.com/cw11ark/miaolianyun-jichang)
+- [赛博云 测评](https://github.com/cw11ark/saiboyun-jichang)
+- [赔钱机场 测评](https://github.com/cw11ark/peiqian-jichang)
 </details>
