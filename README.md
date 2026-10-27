@@ -1,4 +1,4 @@
-# 机场推荐（2026-10-27 更新）
+# 机场推荐（2026-10-28 更新）
 
 > **[秒连云](https://github.com/cw11ark/miaolianyun-jichang)** — 稳，全节点连通 · **[官网注册](https://mly518.com/#/register?code=IDN5bnoG)**
 >
