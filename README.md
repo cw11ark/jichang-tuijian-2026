@@ -1,4 +1,4 @@
-# 机场推荐（2026-10-28 更新）
+# 机场推荐（2026-11-01 更新）
 
 > **[秒连云](https://github.com/cw11ark/miaolianyun-jichang)** — 稳，全节点连通 · **[官网注册](https://mly518.com/#/register?code=IDN5bnoG)**
 >
@@ -8,10 +8,30 @@
 >
 > **[贝贝云](https://github.com/cw11ark/beibei-jichang)** — 半年付起，5 台设备，港新美日台 · **[官网注册](https://2beibei.com/register?code=tYdL5jFF)**
 >
+> **[BiuBiu](https://github.com/cw11ark/biubiu-jichang)** — 26 元/月 50G，CN2 多线路可选 · [官网注册](https://biubiux.online/#/register?code=iS1OQJ7Q)
+>
+> **[糖果云](https://github.com/cw11ark/candy-jichang)** — 18 元/月 100G，家庭不限设备 · [官网注册](http://candyzzyz.com/web/#/login?code=h64lQtUO)
+>
+> **[哆啦A梦](https://github.com/cw11ark/doraemon-jichang)** — 23 元/月 135G，IPLC 与 V5 专属线路 · [官网注册](https://web1.yyds2-doraemon.site/login/register?invite_code=1yjj7VQR)
+>
+> **[红杏云](https://github.com/cw11ark/hongxing-jichang)** — 20 元/月 200G，月付档家庭共享不限设备 · [官网注册](https://hongxingdl.one/web/#/login?code=jxeAiWEC)
+>
+> **[极速123](https://github.com/cw11ark/jisu123-jichang)** — 15.99 元/月，标称 1200G · [官网注册](https://905.jsy902.xyz/#/register?code=w5eVtnWC)
+>
+> **[极速Cloud](https://github.com/cw11ark/jisucloud-jichang)** — 新人 15 元体验 · [官网注册](https://191.101.132.80/#/register?code=jR8v0DFd)
+>
+> **[山海](https://github.com/cw11ark/shanhai-jichang)** — 国内 15 元/月 128G，国际线路 5 元/月 · [官网注册](https://shanhai.cfd/#/register?code=iyopi9RK)
+>
+> **[乌龟加速](https://github.com/cw11ark/wugui-jichang)** — 18 元/月 200G，月付档家庭不限设备 · [官网注册](https://wuguijiasu.com/#/login?code=dd6NtGYo)
+>
+> **[星维](https://github.com/cw11ark/xinwei-jichang)** — 8 元/月 160G，年付 80 元每月 240G · [官网注册](https://xinweicloud.com/?mode=register&invite=ICg5rb7n)
+>
+> **[云帆](https://github.com/cw11ark/yunfan-jichang)** — 9 元/月 100G，节点按 1/2/3 倍扣量 · [官网注册](https://b.yfgo.cc/#/register?code=5Z4tLA7q)
+>
 
 | | |
 |---|---|
-| 收录 | 4 家自用机场 |
+| 收录 | 14 家自用机场 |
 | 起步价 | 1.5 元/月起 |
 | 实测 | 全节点测速，每节点连测 3 次取最优 |
 | 更新 | 价格随官网变，节点按周复测 |
@@ -268,3 +288,20 @@
 - [赔钱机场 测评](https://github.com/cw11ark/peiqian-jichang)
 - [贝贝云 测评](https://github.com/cw11ark/beibei-jichang)
 </details>
+
+## 更多机场测评（10 家 · 2026-11-01 新增）
+
+十家各有独立测评仓：全档套餐表、全节点测速图（21 列毒药版式）、购买建议。点击跳转：
+
+| 机场 | 一句话 | 测速规模 | 测评仓 |
+|---|---|---|---|
+| [极速123](https://github.com/cw11ark/jisu123-jichang#极速123机场1599-元月标称-1200g按-6-倍计费2026-10-31-更新) | 15.99 元/月标称 1200G，6 倍计费 | 121 行 | [极速123-jichang](https://github.com/cw11ark/jisu123-jichang) |
+| [极速Cloud](https://github.com/cw11ark/jisucloud-jichang#极速cloud机场新人-15-元体验不可续费常规月付-30-元起2026-10-31-更新) | 新人 15 元（不可续费），常规月付 30 元 | 47 行 | [极速Cloud-jichang](https://github.com/cw11ark/jisucloud-jichang) |
+| [山海](https://github.com/cw11ark/shanhai-jichang#山海机场国内-15-元月-128g国际线路-5-元月2026-10-31-更新) | 国内 15 元/128G，国际 5 元/256G | 21 行 | [shanhai-jichang](https://github.com/cw11ark/shanhai-jichang) |
+| [BiuBiu](https://github.com/cw11ark/biubiu-jichang#biubiu机场26-元月-50gcn2-多线路可选2026-10-31-更新) | 26 元/月起，CN2 GIA/9929/CMIN2 | 85 行 | [biubiu-jichang](https://github.com/cw11ark/biubiu-jichang) |
+| [云帆](https://github.com/cw11ark/yunfan-jichang#云帆机场9-元月-100g节点按-123-倍扣量2026-10-31-更新) | 9 元/月 100G，三档倍率 | 73 行 | [yunfan-jichang](https://github.com/cw11ark/yunfan-jichang) |
+| [糖果云](https://github.com/cw11ark/candy-jichang#糖果云机场18-元月-100g家庭不限设备2026-10-31-更新) | 18 元/月 100G，IEPL 家庭共享 | 32 行 | [candy-jichang](https://github.com/cw11ark/candy-jichang) |
+| [哆啦A梦](https://github.com/cw11ark/doraemon-jichang#哆啦a梦机场23-元月-135giplc-与-v5-专属线路2026-10-31-更新) | 23 元/月 135G，V5 专线/家宽 | 34 行 | [doraemon-jichang](https://github.com/cw11ark/doraemon-jichang) |
+| [星维](https://github.com/cw11ark/xinwei-jichang#星维机场8-元月-160g年付-80-元每月-240g2026-10-31-更新) | 8 元/月 160G，年付月均 6.7 元 | 20 行 | [xinwei-jichang](https://github.com/cw11ark/xinwei-jichang) |
+| [红杏云](https://github.com/cw11ark/hongxing-jichang#红杏云机场20-元月-200g月付档家庭共享不限设备2026-10-31-更新) | 20 元/月 200G，月付家庭共享 | 57 行 | [hongxing-jichang](https://github.com/cw11ark/hongxing-jichang) |
+| [乌龟加速](https://github.com/cw11ark/wugui-jichang#乌龟加速机场18-元月-200g月付档家庭不限设备2026-10-31-更新) | 18 元/月 200G，IEPL | 33 行 | [wugui-jichang](https://github.com/cw11ark/wugui-jichang) |
