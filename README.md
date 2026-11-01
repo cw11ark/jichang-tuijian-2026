@@ -289,7 +289,7 @@
 - [贝贝云 测评](https://github.com/cw11ark/beibei-jichang)
 </details>
 
-## 更多机场测评（10 家 · 2026-11-01 新增）
+## 更多机场测评（12 家 · 2026-11-01 新增）
 
 十家各有独立测评仓：全档套餐表、全节点测速图（21 列毒药版式）、购买建议。点击跳转：
 
@@ -305,3 +305,5 @@
 | [星维](https://github.com/cw11ark/xinwei-jichang#星维机场8-元月-160g年付-80-元每月-240g2026-10-31-更新) | 8 元/月 160G，年付月均 6.7 元 | 20 行 | [xinwei-jichang](https://github.com/cw11ark/xinwei-jichang) |
 | [红杏云](https://github.com/cw11ark/hongxing-jichang#红杏云机场20-元月-200g月付档家庭共享不限设备2026-10-31-更新) | 20 元/月 200G，月付家庭共享 | 57 行 | [hongxing-jichang](https://github.com/cw11ark/hongxing-jichang) |
 | [乌龟加速](https://github.com/cw11ark/wugui-jichang#乌龟加速机场18-元月-200g月付档家庭不限设备2026-10-31-更新) | 18 元/月 200G，IEPL | 33 行 | [wugui-jichang](https://github.com/cw11ark/wugui-jichang) |
+| [飞兔云](https://github.com/cw11ark/feituyun-jichang#飞兔云机场99-元月-118g80-多国节点与-1-倍中转2026-11-01-更新 | 9.9 元/月 118G，80+ 多国节点 1 倍中转 | 延迟实测 | [feituyun-jichang](https://github.com/cw11ark/feituyun-jichang) |
+| [TAG](https://github.com/cw11ark/tag-jichang#tag机场330-线路覆盖-100-国家冷门地区与家宽资源丰富2026-11-01-更新 | 330+ 线路 100+ 国家，冷门地区与家宽 | 326 行 | [tag-jichang](https://github.com/cw11ark/tag-jichang) |
