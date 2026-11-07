@@ -311,3 +311,13 @@
 | [乌龟加速](https://github.com/cw11ark/wugui-jichang#乌龟加速机场18-元月-200g月付档家庭不限设备2026-10-31-更新) | 18 元/月 200G，IEPL | 33 行 | [wugui-jichang](https://github.com/cw11ark/wugui-jichang) |
 | [飞兔云](https://github.com/cw11ark/feituyun-jichang#飞兔云机场99-元月-118g80-多国节点与-1-倍中转2026-11-01-更新 | 9.9 元/月 118G，80+ 多国节点 1 倍中转 | 延迟实测 | [feituyun-jichang](https://github.com/cw11ark/feituyun-jichang) |
 | [TAG](https://github.com/cw11ark/tag-jichang#tag机场330-线路覆盖-100-国家冷门地区与家宽资源丰富2026-11-01-更新 | 330+ 线路 100+ 国家，冷门地区与家宽 | 326 行 | [tag-jichang](https://github.com/cw11ark/tag-jichang) |
+
+<!-- P016-VERIFIED-NAV-START -->
+## 本轮已核验新站
+
+- [FlyingBird](https://github.com/cw11ark/09-flyingbird-jichang) · [官网注册](https://fbinv02.fbaff.cc/auth/register?code=KUtIhkoL)
+- [FastLink](https://github.com/cw11ark/11-fastlink-jichang) · [官网注册](https://a01.flaff9.cc/auth/register?code=EC80x83h)
+- [一云梯](https://github.com/cw11ark/12-jichang) · [官网注册](https://i01.1ytaff01.cc/register?aff=H0YQmovD)
+
+以上三个注册入口均为本站推广链接；经这些链接注册或购买，本站可能获得佣金。
+<!-- P016-VERIFIED-NAV-END -->
