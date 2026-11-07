@@ -20,7 +20,7 @@
 >
 > **[极速Cloud](https://github.com/cw11ark/jisucloud-jichang)** — 新人 15 元体验 · [官网注册](https://191.101.132.80/#/register?code=jR8v0DFd)
 >
-> **[山海](https://github.com/cw11ark/shanhai-jichang)** — 国内 15 元/月 128G，国际线路 5 元/月 · [官网注册](https://shanhai.cfd/#/register?code=iyopi9RK)
+> **[山海](https://github.com/cw11ark/shanhai-jichang)** — 国内 15 元/月 128G，国际线路 5 元/月 · [官网注册](https://shanhai.cfd/#/register?code=JCTl4PVQ)
 >
 > **[乌龟加速](https://github.com/cw11ark/wugui-jichang)** — 18 元/月 200G，月付档家庭不限设备 · [官网注册](https://wuguijiasu.com/#/login?code=dd6NtGYo)
 >
