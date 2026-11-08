@@ -314,11 +314,48 @@
 | [TAG](https://github.com/cw11ark/tag-jichang#tag机场330-线路覆盖-100-国家冷门地区与家宽资源丰富2026-11-01-更新 | 330+ 线路 100+ 国家，冷门地区与家宽 | 326 行 | [tag-jichang](https://github.com/cw11ark/tag-jichang) |
 
 <!-- P016-VERIFIED-NAV-START -->
-## 本轮已核验新站
+## 机场导航
 
-- [FlyingBird](https://github.com/cw11ark/09-flyingbird-jichang) · [官网注册](https://fbinv02.fbaff.cc/auth/register?code=KUtIhkoL)
-- [FastLink](https://github.com/cw11ark/11-fastlink-jichang) · [官网注册](https://a01.flaff9.cc/auth/register?code=EC80x83h)
+- [青云梯](https://github.com/cw11ark/15-jichang) · [官网注册](https://inv02.qytaff.cc/register?aff=29Wq9LnO)
 - [一云梯](https://github.com/cw11ark/12-jichang) · [官网注册](https://i01.1ytaff01.cc/register?aff=H0YQmovD)
+- [FastLink](https://github.com/cw11ark/11-fastlink-jichang) · [官网注册](https://a01.flaff9.cc/auth/register?code=EC80x83h)
+- [龙猫云](https://github.com/cw11ark/18-jichang) · [官网注册](https://inv06.lmaff01.cc/register?aff=MQezCjhG)
+- [Nerwo奶瓶 / Paxora](https://github.com/cw11ark/22-nerwo-jichang) · [官网注册](https://invite.eleven.observer/#/register?code=tnOXkma3)
+- [酷酷云KuKuYun](https://github.com/cw11ark/21-kukuyun-jichang) · [官网注册](https://i01.kkyaffa.cc/register?aff=vpwMjPQ0)
+- [闪狐云](https://github.com/cw11ark/25-jichang) · [官网注册](https://i01.ffaff.cc/register?aff=Z9crzRfx)
+- [银河云GalaxyCloud](https://github.com/cw11ark/26-galaxycloud-jichang) · [官网注册](https://inv04.galaxyaff.cc/register?aff=AMjBRNfY)
+- [速云梯](https://github.com/cw11ark/28-jichang) · [官网注册](https://suyunti981.xyz/auth/register?code=AKDD)
+- [少数派](https://github.com/cw11ark/30-jichang) · [官网注册](https://s1.thefew01.top/#/register?code=8d4VZGPI)
+- [ssLinks](https://github.com/cw11ark/35-sslinks-jichang) · [官网注册](https://98a6251b6cd7471da86cca993b6dbe6f.36d.biz#/register?code=VTt9JP4h)
+- [泡芙云](https://github.com/cw11ark/14-jichang) · [官网注册](https://www.paofu.cloud/auth/register?code=f4ND)
+- [Aladdin](https://github.com/cw11ark/32-aladdinaladdin-jichang) · [官网注册](https://www.aladingnet.xyz/#/register?code=KIKqaWur)
+- [守候网络](https://github.com/cw11ark/33-jichang) · [官网注册](https://ncdn1.sntp.uk/auth/register?code=Q8VZCRXT)
+- [次元链接](https://github.com/cw11ark/23-jichang) · [官网注册](https://次元.vip/auth/register?code=JwvOuJ)
+- [云翼网络](https://github.com/cw11ark/38-jichang) · [官网注册](https://s1.fluxlink.top/#/register?code=H6lCti8g)
+- [大哥云](https://github.com/cw11ark/39-jichang) · [官网注册](https://aff01.zygbx.com/#/register?code=frc0vbWr)
+- [蓝帆云](https://github.com/cw11ark/42-jichang) · [官网注册](https://lanfanz.cc/portal/register?code=fGhk)
+- [MESL](https://github.com/cw11ark/46-mesl-jichang) · [官网注册](https://in.mesl.cloud/#/register?code=KWgnAnFS)
+- [海豚湾](https://github.com/cw11ark/50-jichang) · [官网注册](https://cdn0315.manage.hitun.io/auth/register?affid=454484)
+- [Miaona](https://github.com/cw11ark/55--miaona-jichang) · [官网注册](https://miaona.xyz/#/register?code=bRryRJpt)
+- [咖啡云](https://github.com/cw11ark/54-jichang) · [官网注册](https://aicoffee.app/#/register?code=BtycFv4l)
+- [速鹰666](https://github.com/cw11ark/56--666-jichang) · [官网注册](https://sy7770.com/auth/register?code=ACyQ)
+- [TAG](https://github.com/cw11ark/tag-jichang) · [官网注册](https://tagss.pro/#/auth/lqGMKley)
+- [FlyingBird](https://github.com/cw11ark/09-flyingbird-jichang) · [官网注册](https://fbinv02.fbaff.cc/auth/register?code=KUtIhkoL)
+- [飞兔云](https://github.com/cw11ark/feituyun-jichang) · [官网注册](https://vip.xn--h5qy75o.vip/#/register?code=tFzFObOE)
+- [秒连云](https://github.com/cw11ark/miaolianyun-jichang) · [官网注册](https://mly518.com/#/register?code=IDN5bnoG)
+- [赔钱机场](https://github.com/cw11ark/peiqian-jichang) · [官网注册](https://xn--mes358aby2apfg.com/register?code=qhyiSP1G&cover=sfw)
+- [赛博云](https://github.com/cw11ark/saiboyun-jichang) · [官网注册](https://saiboyun.org/#/register?code=dAvrmHqg)
+- [极速123](https://github.com/cw11ark/jisu123-jichang) · [官网注册](https://905.jsy902.xyz/#/register?code=w5eVtnWC)
+- [红杏云](https://github.com/cw11ark/hongxing-jichang) · [官网注册](https://hongxingdl.one/web/#/login?code=jxeAiWEC)
+- [乌龟加速](https://github.com/cw11ark/wugui-jichang) · [官网注册](https://wuguijiasu.com/#/login?code=dd6NtGYo)
+- [星维](https://github.com/cw11ark/xinwei-jichang) · [官网注册](https://xinweicloud.com/?mode=register&invite=ICg5rb7n)
+- [哆啦A梦](https://github.com/cw11ark/doraemon-jichang) · [官网注册](https://web1.yyds2-doraemon.site/login/register?invite_code=1yjj7VQR)
+- [糖果云](https://github.com/cw11ark/candy-jichang) · [官网注册](http://candyzzyz.com/web/#/login?code=h64lQtUO)
+- [云帆](https://github.com/cw11ark/yunfan-jichang) · [官网注册](https://b.yfgo.cc/#/register?code=5Z4tLA7q)
+- [BiuBiu](https://github.com/cw11ark/biubiu-jichang) · [官网注册](https://biubiux.online/#/register?code=iS1OQJ7Q)
+- [山海](https://github.com/cw11ark/shanhai-jichang) · [官网注册](https://shanhai.cfd/#/register?code=JCTl4PVQ)
+- [极速Cloud](https://github.com/cw11ark/jisucloud-jichang) · [官网注册](https://191.101.132.80/#/register?code=jR8v0DFd)
+- [贝贝云](https://github.com/cw11ark/beibei-jichang) · [官网注册](https://2beibei.com/register?code=tYdL5jFF)
 
-以上三个注册入口均为本站推广链接；经这些链接注册或购买，本站可能获得佣金。
+以上注册入口均为本站推广链接；经这些链接注册或购买，本站可能获得佣金。
 <!-- P016-VERIFIED-NAV-END -->
