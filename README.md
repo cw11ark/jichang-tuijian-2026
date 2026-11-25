@@ -22,7 +22,7 @@
 >
 > **[山海](https://github.com/cw11ark/shanhai-jichang)** — 国内 15 元/月 128G，国际线路 5 元/月 · [官网注册](https://shanhai.cfd/#/register?code=JCTl4PVQ)
 >
-> **[乌龟加速](https://github.com/cw11ark/wugui-jichang)** — 18 元/月 200G，月付档家庭不限设备 · [官网注册](https://wuguijiasu.com/#/login?code=QNAZaT1X)
+> **[乌龟加速](https://github.com/cw11ark/wugui-jichang)** — 18 元/月 200G，月付档家庭不限设备 · [官网注册](https://wuguijiasu.com/#/login?code=dd6NtGYo)
 >
 > **[星维](https://github.com/cw11ark/xinwei-jichang)** — 8 元/月 160G，年付 80 元每月 240G · [官网注册](https://xinweicloud.com/?mode=register&invite=ICg5rb7n)
 >
@@ -345,7 +345,7 @@
 - [赛博云](https://github.com/cw11ark/saiboyun-jichang) · [官网注册](https://saiboyun.org/#/register?code=dAvrmHqg)
 - [极速123](https://github.com/cw11ark/jisu123-jichang) · [官网注册](https://905.jsy902.xyz/#/register?code=w5eVtnWC)
 - [红杏云](https://github.com/cw11ark/hongxing-jichang) · [官网注册](https://hongxingdl.one/web/#/login?code=jxeAiWEC)
-- [乌龟加速](https://github.com/cw11ark/wugui-jichang) · [官网注册](https://wuguijiasu.com/#/login?code=QNAZaT1X)
+- [乌龟加速](https://github.com/cw11ark/wugui-jichang) · [官网注册](https://wuguijiasu.com/#/login?code=dd6NtGYo)
 - [星维](https://github.com/cw11ark/xinwei-jichang) · [官网注册](https://xinweicloud.com/?mode=register&invite=ICg5rb7n)
 - [哆啦A梦](https://github.com/cw11ark/doraemon-jichang) · [官网注册](https://web1.yyds2-doraemon.site/login/register?invite_code=1yjj7VQR)
 - [糖果云](https://github.com/cw11ark/candy-jichang) · [官网注册](http://candyzzyz.com/web/#/login?code=h64lQtUO)
